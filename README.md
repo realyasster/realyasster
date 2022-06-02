@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi There, I'm yasster let me introduce myself 👋
 
-<!--
-**realyasster/realyasster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+That's my GitHub profile. I think i should update here when i have time.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cs)](https://skillicons.dev)
+My Skills;
+(https://skillicons.dev/icons?i=html,css,php,cs)
